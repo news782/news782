@@ -8,6 +8,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=news782&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=news782&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=news782&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🐙 GitLab Stats
+[![GitLab](https://img.shields.io/badge/GitLab-m.caubert-orange?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/m.caubert)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=news782&icon=0&color=0)](https://visitcount.itsvg.in)
