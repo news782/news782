@@ -1,5 +1,5 @@
 # Bonjour 👋, bienvenue sur mon GitHub. Je suis Martin, étudiant en informatique à l'IUT Robert-Schuman d'Illkirch.
-- 🎓 Étudiant en BUT Informatique à l'IUT Robert Schuman (Illkirch / Strasbourg)  <br>- 💻 Passionné par le développement (C, Java, SQL, C#, etc.)  <br>- 🚀 Intéressé par le développement logiciel, les réseaux et l’architecture des ordinateurs  <br>- 📐 Fan de projets manuels : miniatures, maquettes, etc.  <br>- 🌍 Mes projets GitHub : principalement des projets d’études  <br>- 🔥 Objectif : progresser, partager et apprendre  <br>- 🎶 Centres d’intérêt : musique, maquettes, langages de programmation et plus encore  <br>
+- 🎓 Étudiant en BUT Informatique à l'IUT Robert Schuman (Illkirch / Strasbourg)  <br>- 💻 Passionné par le développement (C, Java, SQL, C#, Web,etc.)  <br>- 🚀 Intéressé par le développement logiciel, les réseaux et l’architecture des ordinateurs  <br>- 📐 Fan de projets manuels : miniatures, maquettes, etc.  <br>- 🌍 Mes projets GitHub : principalement des projets d’études  <br>- 🔥 Objectif : progresser, partager et apprendre  <br>- 🎶 Centres d’intérêt : musique, maquettes, langages de programmation et plus encore  <br>
 
 
 # 💻 Tech Stack:
